@@ -41,7 +41,7 @@ async def bot_response(message):
 @client.event
 async def on_message(message):
     print(message.channel.id)
-    if message.author != client.user and message.channel.id == 1050226114221576212:
+    if message.author != client.user and message.channel.id == :
         print(message.content)
         await bot_response(message)
 
