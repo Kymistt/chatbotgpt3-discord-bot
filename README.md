@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![Logo](https://media.discordapp.net/attachments/1050225647634616390/1050470850471657554/image.png)
+![Logo](https://media.discordapp.net/attachments/1050225647634616390/1050477737598525480/image-modified.png)
 
 ## License
 
